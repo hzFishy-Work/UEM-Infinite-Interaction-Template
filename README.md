@@ -1,2 +1,2 @@
 # Infinite Interaction Template
-# See [WIki](wiki) for Documentation
+# See the [wiki]([wiki](https://github.com/hzFishy-Work/UEM-Infinite-Interaction-Template/wiki)https://github.com/hzFishy-Work/UEM-Infinite-Interaction-Template/wiki) for the documentation and other details
